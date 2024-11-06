@@ -1,0 +1,2 @@
+
+{"fio":"Иванов","email":"ff@hh.ru","phone":"+79658014547","kurs":"VR/AR"}
